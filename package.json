@@ -1,0 +1,37 @@
+{
+  "name": "arvore-ideia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "caniuse-lite": "^1.0.30001692",
+    "client-only": "^0.0.1",
+    "nanoid": "^3.3.8",
+    "next": "^15.1.4",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.4.31",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "scheduler": "^0.25.0",
+    "source-map-js": "^1.2.1",
+    "streamsearch": "^1.1.0",
+    "styled-jsx": "^5.1.6",
+    "tslib": "^2.8.1"
+  },
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beta8374/ARVORE-IDEIA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Beta8374/ARVORE-IDEIA/issues"
+  },
+  "homepage": "https://github.com/Beta8374/ARVORE-IDEIA#readme",
+  "description": ""
+}
